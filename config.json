@@ -1,0 +1,6 @@
+{
+  "token": "BOT_TOKEN_HERE",
+  "prefix": ".",
+  "owner_ids": [SERVER_OWNER_ID_HERE],
+  "whitelist": false
+}
